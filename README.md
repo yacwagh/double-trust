@@ -1,6 +1,6 @@
 # DoubleTrust - Agents discovery & governance platform
 
-A platform for discovering abd governing your Agents inside your codebases.
+A platform for discovering and governing your Agents inside your codebases.
 
 <img width="3022" height="1714" alt="image" src="https://github.com/user-attachments/assets/d8a4e0e0-e56b-4235-ac54-28b33b35e808" />  
 
