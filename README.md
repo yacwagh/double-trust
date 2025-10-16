@@ -1,2 +1,3 @@
-# double-trust
+# DoubleTrust
+
 Agents discovery &amp; governance platform
