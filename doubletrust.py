@@ -37,7 +37,7 @@ def clear_database(project_root: Path) -> None:
     """Clear all data from the database on startup."""
     try:
         import sqlite3
-        db_path = project_root / "doubletrust.db"
+        db_path = project_root / "backend" / "doubletrust.db"
         if db_path.exists():
             conn = sqlite3.connect(str(db_path))
             cursor = conn.cursor()

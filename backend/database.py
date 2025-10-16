@@ -8,7 +8,7 @@ from contextlib import contextmanager
 
 
 class Database:
-    def __init__(self, db_path: str = "doubletrust.db"):
+    def __init__(self, db_path: str = "backend/doubletrust.db"):
         self.db_path = db_path
         self.init_database()
 
