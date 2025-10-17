@@ -95,5 +95,5 @@ Use the sample agents in `agent-test/`:
 
 ## More to come
 
-[] Support more frameworks (CrewAI, Langgraph...)
-[] Integrate MCP governance
+- Support more frameworks (CrewAI, Langgraph...)  
+- MCP discovery
